@@ -118,14 +118,6 @@ streamlit run app.py
 
 ---
 
-## App Screenshots
-
-> Upload resume → instant 6-signal match → skill gap breakdown → interview prep → live job listings
-
-*[Add screenshots here after deployment]*
-
----
-
 ## Get API Keys
 
 | API | Free Tier | Link |
